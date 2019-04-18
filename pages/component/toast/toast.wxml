@@ -1,0 +1,1 @@
+<view class='toast {{show?"show":""}} {{close?"close":""}}' wx:if='{{show}}'>{{text}}</view>
